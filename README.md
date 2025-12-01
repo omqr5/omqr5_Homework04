@@ -8,6 +8,7 @@ the best places to ride, top resorts, tips, and history.
 - [Best Countries to Snowboard](countries.md)
 - [Top Snowboard Resorts](resorts.md)
 - [Snowboarding Tips](tips.md)
+- [Saftey](saftey.md)
 - [History of Snowboarding](history.md)
 
 ## Navigation 
