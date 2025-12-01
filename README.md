@@ -1,12 +1,15 @@
 # omqr5_Homework04
 
-Hello! For this project I am using this Github repository README.md to explore things I am ointerested in. 
+Welcome to my snowboarding markdown project! Here you'll find info about gear,
+the best places to ride, top resorts, tips, and history. 
 
 ## Pages
-- [About Me](about.md)
-- [Upcoming Plans](plans.md)
-- [Snowboarding Gear](snowboarding.md)
-- [Travel List](travel.md)
-- [Favorite Tech](tech.md)
+- [Snowboarding Gear](gear.md)
+- [Best Countries to Snowboard](countries.md)
+- [Top Snowboard Resorts](resorts.md)
+- [Snowboarding Tips](tips.md)
+- [History of Snowboarding](history.md)
 
-Use the links to navigate between my pages.
+## Navigation 
+Use the links to navigate the files.
+
